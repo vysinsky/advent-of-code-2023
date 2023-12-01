@@ -12,3 +12,9 @@ Every task input and task description is versioned withing the day folder for do
 ## Day 1: Trebuchet?!
 
 Language chosen by ChatGPT: Python
+My experience with this language: Beginner
+
+## Day 2
+
+Language chosen by ChatGPT: PowerShell
+My experience with this language: None
