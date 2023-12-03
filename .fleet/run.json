@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "node",
+            "name": "Part 1 example",
+            "workingDir": "day-3/part1/",
+            "file": "main.js",
+            "appOptions": ["example.txt"]
+        },
+        {
+            "type": "node",
+            "name": "Part 1 real input",
+            "workingDir": "day-3/part1/",
+            "file": "main.js",
+            "appOptions": ["input.txt"]
+        },
+        {
+            "type": "node",
+            "name": "Part 2 example",
+            "workingDir": "day-3/part2/",
+            "file": "main.js",
+            "appOptions": ["example.txt"]
+        },
+        {
+            "type": "node",
+            "name": "Part 2 real input",
+            "workingDir": "day-3/part2/",
+            "file": "main.js",
+            "appOptions": ["input.txt"]
+        },
+    ]
+}
