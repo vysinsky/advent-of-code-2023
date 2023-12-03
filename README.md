@@ -1,13 +1,14 @@
 # Advent of Code 2023
 
-My rules for taking part in event:
+My rules for taking part in the event:
 
-* Every day in different language
-* Language suggested by ChatGPT (with only condition to develop and run on Windows machine)
+* Every day in a different language
+* Language suggested by ChatGPT (with the only condition to develop and run on a Windows machine)
 * AI is used ONLY for finding a language, not for code generation
-* No checking of reddit before resolving the task
+* AI can be used for getting code examples (to learn the syntax of a new language) but it is not allowed to use it to explain or help with the solution code itself
+* No checking of Reddit before resolving the task
 
-Every task input and task description is versioned withing the day folder for documentation reasons.
+Every task input and description is versioned within the day folder for documentation reasons.
 
 | Day                   | Language chosen by ChatGPT | Experience before the task |
 |-----------------------|----------------------------|----------------------------|
