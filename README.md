@@ -16,3 +16,4 @@ Every task input and description is versioned within the day folder for document
 | Day 2: Cube Conundrum | PowerShell                 | None                       |
 | Day 3: Gear Ratios    | JavaScript                 | Expert                     |
 | Day 4:                | Ruby                       | None                       |
+| Day 5:                | C++                        | Beginner                   |
